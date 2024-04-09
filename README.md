@@ -1,6 +1,6 @@
 <h2 align="center">¡Hi , I'm Jose, better known as monodev 🙉👨🏻‍💻!</h2>
 <p align="center">
-     <img align="center" width="200" src="https://avatars.githubusercontent.com/u/110427144?s=400&u=57abb4f0d0f048f924768d3acde31ccc3d1dd5cc&v=4" />  
+    <img align="center" width="500" src="https://github.com/HolaJose2/HolaJose2/assets/110427144/468180e5-81bf-4e85-9e88-51d47f909c89" />
 </p>
 <p align="center">  
    <a href="https://twitch.tv/monodevs" target="blank">
